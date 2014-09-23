@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WorldCupQuiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="add_id">"ca-app-pub-2380835153754890/9544932562"</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Quiz</item>
+        <item>Fixture</item>
+        <item>History</item>
+        <item>শাক-সব্জীর রোগ বালাই ও প্রতিকার</item>
+        <item>কৃষি বিষয়ক ওয়েবসাইট</item>
+        <item>মিডিয়াতে কৃষি </item>
+        <item>মোবাইল কৃষি সেবা</item>
+        <item>বীজ ও সারের মূল্য.</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+</resources>

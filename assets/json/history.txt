@@ -1,0 +1,105 @@
+{
+    "history": [
+        {
+                "year": "2010",
+                "win": "Spain",
+                "lose": "Netherlands",
+                "des": "The 2010 World Cup was held in South Africa. It was the first cup hosted on African soil, and the cup was won by Spain. The tournament was noted for its highly defensive opening matches, controversies surrounding goal-line technology, and the introduction of vuvuzelas. Though considered as one of the tournament favorites, the Spaniards won the cup despite scoring only 8 goals in 7 games and losing their opening match to Switzerland. David Villa led the squad in scoring with 5 goals. In a final which saw a record number of yellow cards distributed and the extremely violent play from the Dutch side, the 10-man Netherlands squad were defeated 1 - 0 in the 116th minute of extra time by an Andres Iniesta goal.",
+                "extra" : "Best player of the tournament is Diego Forlan"
+
+                
+        },
+
+        {
+                "year": "2006",
+                "win": "Italy",
+                "lose": "France",
+                "des": "The 2006 World Cup was held in Germany. It was the first World Cup for which the previous winner had to qualify; the host nation(s) continue to receive an automatic berth.Four African teams also made their debut in the world cup finals Togo, Cote d'voire, Angola and Ghana who impressively made it to last 16 by beating the Czech Republic, third ranked in the world, 2 - 1, along with the USA 2 - 0, before losing to the defending champions Brazil 0 - 3.",
+                "extra" : "Best player of the tournament is Zinedine Zidane"
+
+                
+        },
+
+        {
+                "year": "2002",
+                "win": "Brazil",
+                "lose": "Germany",
+                "des": "The 2002 World Cup was the first to be held in Asia, and was hosted jointly by South Korea and Japan. Togolese Souleymane Mamam became the youngest player ever to take to a World Cup preliminary game field at 13 years, 310 days in Lomein May 2001. Australia defeated American Samoa 31 - 0 in a preliminary match  -  a new record for the margin of victory, and the highest-scoring match ever. The tournament was a successful one for teams traditionally regarded as minnows, with South Korea, Senegal and USA all reaching the last eight. Brazil beat Germany 2 - 0 in the final for their fifth title.",
+                "extra" : "Best player of the tournament is Oliver Kahn"
+
+                
+        },
+        {
+                "year": "1998",
+                "win": "France",
+                "lose": "Brazil",
+                "des": "The 1998 World Cup was held in France, and had an expanded format featuring 32 teams. Iran beat the Maldives in qualification by the widest margin in World Cup history  -  17 - 0. In the finals, the second round match between France and Paraguay witnessed the first Golden Goal in World Cup history, as Laurent Blanc scored to give the hosts a 1 - 0 victory. Hosts France won the tournament by beating Brazil 3 - 0 in the final, as the scorer of four goals in the tournament, Ronaldo, appeared to be less than a hundred percent in the match, and was unable to make any impact. Debutants Croatia finished a commendable third.",
+                "extra" : "Best player of the tournament is Ronaldo"
+
+                
+        },
+        {
+                "year": "1994",
+                "win": "Brazil",
+                "lose": "Italy",
+                "des": "The 1994 World Cup, held in the USA, saw the first World Cup final to be decided on penalties, with Brazil edging out Italy. Yugoslavia was excluded due to UN sanctions in connection with the war in Bosnia-Herzegovina. Russia (taking the place of USSR which had disintegrated over 1990 and 1991) played their first World Cup competition as a new country, with Greece, Nigeria and Saudi Arabia as the other first-timers. Along with disgrace  -  Diego Maradona being banned mid-tournament after testing positive for recreational drugs. Without him, Argentina were eliminated in the last 16 by Romania — the tournament also saw tragedy when Colombian defender Andrés Escobar was murdered 10 days after his own-goal against the hosts in their first round match that eliminated Colombia.",
+                "extra" : "Best player of the tournament is Romario"
+
+                
+        },
+        {
+                "year": "1990",
+                "win": "West Germany",
+                "lose": "Argentina",
+                "des": "The 1990 World Cup was held in Italy. Cameroon participating in their second World Cup, made it to the quarter finals after beating Argentina in the opening game. No African country had ever reached the quarter finals before. Mexico was unable to compete in the 1990 World Cup preliminary competition as a result of a two-year ban for age fraud at a youth championship; the United States qualified for the first time since 1950. An unpleasant episode marred the South American preliminaries: during the match between Brazil and Chile, a firework landed close to the Chilean goalkeeper Rojas, who then feigned injury by cutting his own face with a razor blade he had hidden in his glove. His team refused to continue the match (as they were down a goal at the time). The plot was discovered and resulted in a 12-year suspension for Rojas and to Chile being banned from the World Cup in 1994.",
+                "extra" : "Best player of the tournament is Salvatore Schillaci"
+
+                
+        },
+        {
+                "year": "1986",
+                "win": "Argentina",
+                "lose": "West Germany",
+                "des": "Mexico became the first nation to hold two World Cups by hosting the 1986 World Cup. The format changed again, with the second round being replaced by a pre-quarterfinal, knockout competition, for which 16 teams would qualify. It was also decided that the final two matches in all groups would kick off simultaneously, to ensure complete fairness. Canada, Denmark and Iraq made their first finals. JoseBatista of Uruguay set a World Cup record being sent off after a mere 56 seconds into the game against Scotland. The quarterfinal match between England and Argentina is remembered for two remarkable Diego Maradona goals, later regarded as player of the tournament, the first, the controversial handball goal, and the second, considered to be the Goal of the Century, in which he dribbled half the length of the field past five English players before scoring. In the final, Argentina beat West Germany 3 - 2, inspired by Diego Maradona, who set up Jorge Burruchaga for the winner. ",
+                "extra" : "Best player of the tournament is Diego Maradona"
+
+                
+        },
+        {
+                "year": "1982",
+                "win": "Italy",
+                "lose": "West Germany",
+                "des": "Spain hosted an expanded 1982 World Cup which featured 24 teams, the first expansion since 1934. The teams were divided into six groups of four, with the top two teams in each group advancing to the second round, where they split into four groups of three. The winners of each group advanced to the semi-finals. Cameroon, Algeria, Honduras, New Zealand and Kuwait were the debutants. The group match between Kuwait and France was stage of a farcical incident. As the French were leading 3 - 1, the Kuwaiti team stopped playing after hearing a whistle from the stands which they thought had come from referee, as French defender Maxime Bossis scored. As the Kuwaiti team were protesting the goal, Sheikh Fahid Al-Ahmad Al-Sabah, president of the Kuwaiti Football Association, rushed onto the pitch and gave the referee a piece of his mind, who proceeded to disallow the goal.",
+                "extra" : "Best player of the tournament is Paolo Rossi"
+
+                
+        },
+        {
+                "year": "1978",
+                "win": "Argentina",
+                "lose": "Netherlands",
+                "des": "The 1978 World Cup was held in Argentina, causing controversy as a military coup had taken place in the country two years earlier. Allegations that Dutch star Johan Cruijff refused to participate because of political convictions were refuted by him 30 years later.[15] and none of the teams decided to stay away. Iran and Tunisia were first time participants. Tunisia won their first match against Mexico 3 - 1 and became the first African team to ever win a world cup game. There was some on-field controversy as well. During the second round Argentina had an advantage in their match against Peru since the kick off was several hours after Brazil's match with Poland. Brazil won their match 3 - 1, so Argentina knew that they had to beat Peru by four goals to advance to the final. ",
+                "extra" : "Best player of the tournament is Mario Kempes"
+
+                
+        },
+        {
+                "year": "1974",
+                "win": "West Germany",
+                "lose": "Netherlands",
+                "des": "A new trophy was created for the 1974 edition, held in West Germany. After a draw in their first UEFA/CONMEBOL Intercontinental play-off match against Chile in the qualifiers, the Soviet Union refused to travel to the Chilean capital for the return fixture for political reasons, and in accordance with the regulations, Chile were awarded a victory. East Germany, Haiti, Australia and Zaire made their first finals. The tournament also saw a new format, where the two top teams from each of the earlier four groups were divided into two groups of four each again, the winner of either group playing each other in the final. The West German hosts won the competition by beating the Netherlands 2 - 1 in the final, but it was also the revolutionary Total Football system of the Dutch that captured the footballing world's imagination.",
+                "extra" : "Best player of the tournament is Johan Cruyff"
+
+                
+        },
+        {
+                "year": "1970",
+                "win": "Brazil",
+                "lose": "Italy",
+                "des": "The qualification stages of the 1970 World Cup were coincidental with the Football War between Honduras and El Salvador. The finals were held in Mexico. Israel had been with Europe, but due to political issues, it was becoming harder to place them adequately in the qualifying rounds. They were grouped in Asia/Oceania. Korea DPR then refused to meet them, even though this meant automatic disqualification. The group stage clash between defending champions England and Brazil lived up to its billing, and is still remembered for England goalkeeper Gordon Banks' save from a Peleheader on the six-yard line, arguably the best save ever. ",
+                "extra" : "Best player of the tournament is Pele"
+
+                
+        }
+       ]
+}

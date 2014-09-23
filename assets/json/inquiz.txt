@@ -1,0 +1,17 @@
+{
+    "in_quiz": 
+        {
+                "ques_id": "14",
+                "ques": "Spain1",
+                "op_1": "Netherlands",
+
+                "op_2": "Netherlands",
+                "op_3": "Netherlands",
+                "op_4": "Netherlands",
+                "op_5": "Netherlands",
+                "op_6": "Netherlands"
+
+                
+        }
+
+      }

@@ -1,0 +1,107 @@
+{
+    "quiz": [
+        {
+                "ques_id": "1",
+                "ques": "Spain1",
+                "op_1": "Netherlands1",
+
+                "op_2": "Netherlands2",
+                "op_3": "Netherlands3",
+                "op_4": "Netherlands4",
+                "op_5": "Netherlands5",
+                "op_6": "Netherlands6"
+
+                
+        },
+
+        {
+                "ques_id": "2",
+                "ques": "Spain2",
+              "op_1": "Netherlands1",
+
+                "op_2": "Netherlands2",
+                "op_3": "Netherlands3",
+                "op_4": "Netherlands4",
+                "op_5": "Netherlands5",
+                "op_6": "Netherlands6"
+
+                
+        },
+        {
+                "ques_id": "3",
+                "ques": "Spain3",
+              "op_1": "Netherlands1",
+
+                "op_2": "Netherlands2",
+                "op_3": "Netherlands3",
+                "op_4": "Netherlands4",
+                "op_5": "Netherlands5",
+                "op_6": "Netherlands6"
+
+                
+        },
+        {
+                "ques_id": "4",
+                "ques": "Spain4",
+               "op_1": "Netherlands1",
+
+                "op_2": "Netherlands2",
+                "op_3": "Netherlands3",
+                "op_4": "Netherlands4",
+                "op_5": "Netherlands5",
+                "op_6": "Netherlands6"
+
+                
+        },
+        {
+                "ques_id": "5",
+                "ques": "Spain5",
+           "op_1": "Netherlands1",
+
+                "op_2": "Netherlands2",
+                "op_3": "Netherlands3",
+                "op_4": "Netherlands4",
+                "op_5": "Netherlands5",
+                "op_6": "Netherlands6"
+                
+        },
+        {
+                "ques_id": "6",
+                "ques": "Spain6",
+             "op_1": "Netherlands1",
+
+                "op_2": "Netherlands2",
+                "op_3": "Netherlands3",
+                "op_4": "Netherlands4",
+                "op_5": "Netherlands5",
+                "op_6": "Netherlands6"
+
+                
+        },
+        {
+                "ques_id": "7",
+                "ques": "Spain7",
+              "op_1": "Netherlands1",
+
+                "op_2": "Netherlands2",
+                "op_3": "Netherlands3",
+                "op_4": "Netherlands4",
+                "op_5": "Netherlands5",
+                "op_6": "Netherlands6"
+
+                
+        },
+        {
+                "ques_id": "8",
+                "ques": "Spain8",
+            "op_1": "Netherlands1",
+
+                "op_2": "Netherlands2",
+                "op_3": "Netherlands3",
+                "op_4": "Netherlands4",
+                "op_5": "Netherlands5",
+                "op_6": "Netherlands6"
+                
+        }
+               ]
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/ivHelp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+
+        android:src="@drawable/a" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/home_question_button" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/tvHelp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:text="The 2010 FIFA World Cup was the 19th FIFA World Cup, the world championship for men&apos;s national association football teams. It took place in South Africa from 11 June to 11 July 2010. The bidding process for hosting the tournament finals was open only to African nations; in 2004, the international football federation, FIFA, selected South Africa over Egypt and Morocco to become the first African nation to host the finals.
+
+The matches were played in 10 stadiums in nine host cities around the country, with the final played at the Soccer City stadium in South Africa&apos;s largest city, Johannesburg. Thirty-two teams were selected for participation via a worldwide qualification tournament that began in August 2007. In the first round of the tournament finals, the teams competed in round-robin groups of four teams for points, with the top two teams in each group proceeding. These 16 teams advanced to the knockout stage, where three rounds of play decided which teams would participate in the final."
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
